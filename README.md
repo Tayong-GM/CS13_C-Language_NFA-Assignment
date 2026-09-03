@@ -4,12 +4,12 @@
 
 ## Rejected
 
-![Rejected Output](image/Screenshot%202026-09-02%20212426.png)
+![Rejected Output](image/Screenshot 2026-09-02 212426.png)
 
 ## Accepted
 
-![Accepted Output](image/Screenshot%202026-09-02%20212152.png)
+![Accepted Output](image/<Screenshot 2026-09-02 212152.png>)
 
 ## Diagram
 
-![DFA Diagram](image/Screenshot%202026-09-02%20212152-1.png)
+![DFA Diagram](image/<Screenshot 2026-09-02 212152-1.png>)
