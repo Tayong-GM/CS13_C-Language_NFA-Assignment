@@ -4,12 +4,12 @@
 
 ## Rejected
 
-![alt text](<Screenshot 2026-09-02 212426.png>)
+![alt text](image/rejected.png)
 
 ## Accepted
 
-![alt text](<Screenshot 2026-09-02 212152.png>)
+![alt text](image/accepted.png)
 
 ## Diagram
 
-![alt text](Diagram.jpg)
+![alt text](image/Diagram.jpg)
