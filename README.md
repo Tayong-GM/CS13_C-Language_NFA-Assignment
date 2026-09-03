@@ -4,12 +4,12 @@
 
 ## Rejected
 
-![Rejected Output](image/rejected.png)
+![Rejected Output](Image/rejected.png)
 
 ## Accepted
 
-![Accepted Output](image/accepted.png)
+![Accepted Output](Image/accepted.png)
 
 ## Diagram
 
-![DFA Diagram](image/Diagram.jpg)
+![DFA Diagram](Image/Diagram.jpg)
