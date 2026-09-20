@@ -14,7 +14,7 @@
 
 ![DFA Diagram](Image/diagram_2.jpg)
 
-## New Homework
+# New Homework - Minimization of DFA
 
 ## Homework 1 (code) from whiteboard
 
