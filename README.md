@@ -28,7 +28,11 @@
 
 ![alt text](Image/Homework_3.png)
 
+![alt text](Image/Homework_3.jpg)
+
 ## Homework 4(own example) 
 
 ![alt text](Image/Homework_4.png)
+
+![alt text](Image/Homework_4.jpg)
 
